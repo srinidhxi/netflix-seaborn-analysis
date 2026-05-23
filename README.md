@@ -10,7 +10,7 @@ This project focuses on analyzing Netflix Movies and TV Shows data using Python 
 
 * Analyze Netflix Movies and TV Shows
 * Explore content distribution and release trends
-* Visualize ratings and country-wise content production
+* Visualize ratings and country-wise content production.
 * Perform data cleaning and statistical analysis
 * Create meaningful visualizations using Seaborn
 
